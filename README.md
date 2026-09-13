@@ -130,4 +130,4 @@ However, the weak whole-record correlation between δ¹⁵N and TN (r = −0.123
 
 "This suggests that climate state, monsoon seasonality, ocean ventilation and oxygen availability may have controlled the relationship between productivity and denitrification"
 
-___________________________________________________________________________*______________________________________________________________________________________
+--------------------------------------------------------------*----------------------------------------------------------------------
