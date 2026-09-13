@@ -1,0 +1,2 @@
+# Variability-of-Marine-Denitrification-in-the-Southern-Arabian-Sea-Over-the-Last-167-ka
+This project investigates variations in marine denitrification in the southern Arabian Sea over the last ~167,000 years using sedimentary δ¹⁵N records. We compare δ¹⁵N fluctuations with Marine Isotope Stages and Total Nitrogen (TN) to examine whether warmer periods and higher biological productivity were associated with stronger denitrification.
